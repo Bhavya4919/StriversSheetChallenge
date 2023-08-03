@@ -1,4 +1,4 @@
-## [Maximum Subarray Sum] (https://bit.ly/3HZltTa)
+## [Maximum Subarray Sum](https://bit.ly/3HZltTa)
 ``` cpp
 #include <bits/stdc++.h> 
 long long maxSubarraySum(int nums[], int n)
