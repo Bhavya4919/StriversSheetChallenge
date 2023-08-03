@@ -1,4 +1,4 @@
-## [Next Perutation] (https://www.codingninjas.com/codestudio/problems/next-greater-permutation_6929564?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+## [Next Perutation](https://www.codingninjas.com/codestudio/problems/next-greater-permutation_6929564?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 ``` cpp
 vector<vector<int>> pascalTriangle(int N) {
     
