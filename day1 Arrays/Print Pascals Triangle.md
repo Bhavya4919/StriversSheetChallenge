@@ -1,4 +1,4 @@
-## [Print Pascal's Trianlge] (https://www.codingninjas.com/codestudio/problems/print-pascal-s-triangle_6917910?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+## [Print Pascal's Trianlge](https://www.codingninjas.com/codestudio/problems/print-pascal-s-triangle_6917910?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 ``` cpp
 vector<vector<int>> pascalTriangle(int N) {
     
